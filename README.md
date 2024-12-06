@@ -1,9 +1,5 @@
 # Cybersecurity Free Tutorials
 
-[![Black Friday](https://file.labex.io/images/labex-bf24.png)](https://labex.io/pricing)
-
-> [Black Friday 2024 & Cyber Monday 2024 Deals](https://labex.io/pricing) | Best Price of the Year
-
 <div align="center">
 <img width="128px" src="https://file.labex.io/path/Xke24vJbuOBk.png">
 </div>
@@ -94,31 +90,28 @@ Cybersecurity is crucial in our increasingly connected world. This Skill Tree pr
 - [Practice Cybersecurity Free Tutorials](https://github.com/labex-labs/cybersecurity-free-tutorials)
 - [Practice Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 - [Practice Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
-- [Practice Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
 - [Practice Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
-- [Practice Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
-- [Practice Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
-- [Practice Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
 - [Practice Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
-- [Practice Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
-- [Practice Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
 - [Practice Shell Free Tutorials](https://github.com/labex-labs/shell-free-tutorials)
 - [Practice Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
-- [Practice Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
-- [Practice C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
-- [Practice C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
 - [Practice MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
+- [Practice MongoDB Free Tutorials](https://github.com/labex-labs/mongodb-free-tutorials)
 - [Practice Golang Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
+- [Practice Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
+- [Practice Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
+- [Practice C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
+- [Practice C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
+- [Practice Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- [Practice Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
 - [Practice Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
 - [Practice NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
 - [Practice scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
 - [Practice Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
-- [Practice Algorithm Free Tutorials](https://github.com/labex-labs/algorithm-free-tutorials)
+- [Practice Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
 - [Practice HTML Free Tutorials](https://github.com/labex-labs/html-free-tutorials)
 - [Practice CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
 - [Practice JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
 - [Practice React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
-- [Practice MongoDB Free Tutorials](https://github.com/labex-labs/mongodb-free-tutorials)
 
 
 ## More
